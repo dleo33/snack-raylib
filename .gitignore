@@ -1,0 +1,23 @@
+# Visual Studio 生成文件
+.vs/
+x64/
+Debug/
+Release/
+*.user
+*.suo
+*.log
+*.obj
+*.pdb
+*.ilk
+*.tlog
+*.idb
+*.ipch
+
+# 编译产物
+*.exe
+*.dll
+*.lib
+
+# 系统文件
+Thumbs.db
+.DS_Store
